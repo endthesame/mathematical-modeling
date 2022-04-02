@@ -1,9 +1,0 @@
-- Docx report file added
-- Pdf report file added
-- Markdown report file added
-- Pdf presentation file added
-- Markdown presentation file added
-- Modelica code added
-- Lab screens added
-- Result
-- Changelog added
